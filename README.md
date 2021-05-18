@@ -1,5 +1,7 @@
 # Complete Your First Software Engineering Assignment
 
+Something silly. The cake is lie.
+
 ## Introduction
 
 During this course, you will work on various assignments as you learn to code.
@@ -282,7 +284,7 @@ Let's quickly review the process for completing assignments:
   git add .
   git commit -m 'Done with assignment'
   ```
-  
+
 9) Push your work to your personal fork on GitHub with the `git push` command
 
 10) Go to your repository in GitHub and copy the URL. Note, this should be copied from the browser's address bar, and should start with `https://github.com/`
